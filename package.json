@@ -1,0 +1,22 @@
+{
+  "name": "typescript-test",
+  "version": "1.0.0",
+  "description": "test for typescript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Invincible-Study-Soru/typescript-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Invincible-Study-Soru/typescript-test/issues"
+  },
+  "homepage": "https://github.com/Invincible-Study-Soru/typescript-test#readme",
+  "dependencies": {
+    "typescript": "^5.6.3"
+  }
+}
